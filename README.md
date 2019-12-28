@@ -13,5 +13,8 @@ I trained a network using MNIST dataset and parsed the weight data in python. Wi
 # Installation
 To run this code, you need [Processing](https://www.processing.org/download/) IDE and a library named [peasycam](http://mrfeinberg.com/peasycam/).
 
+# About Update
+This Forked Virsoin of 'VisualizeMNIST' Support Sigmoid / LeaklyRelu / Relu Activate Functions.
+
 # Instagram
 If you want to see more of my work, check my [Instagram](https://www.instagram.com/okdalto/)
